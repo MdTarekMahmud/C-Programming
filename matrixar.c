@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    printf("Change");
     int a[3][4];
       int i,j;
       printf("Enter Your matrix :\n");
